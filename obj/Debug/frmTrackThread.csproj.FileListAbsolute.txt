@@ -1,0 +1,11 @@
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\bin\Debug\FrmBasicThread1.exe.config
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\bin\Debug\FrmBasicThread1.exe
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\bin\Debug\FrmBasicThread1.pdb
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\frmTrackThread.csproj.AssemblyReference.cache
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\frmTrackThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.Form1.resources
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.Properties.Resources.resources
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\frmTrackThread.csproj.GenerateResource.cache
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\frmTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.exe
+C:\Users\deguzman.238962\Source\Repos\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.pdb
